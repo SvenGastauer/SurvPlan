@@ -1,5 +1,4 @@
-#' Add together two numbers
-#'
+#' geojson file to csv for strata description
 #' @import geojsonR
 #' @param fn path to geojson files
 #' @param vrep name of the column containing the Stratum names, default: "StratumNam"
@@ -8,7 +7,7 @@
 #' @param outfn path where the output csv should be saved
 #' @export
 #'
-planner = function(fn, vrep = "StratumNam",valrep=c("1511","1512"), outfn){
+gojson2csv = function(fn, vrep = "StratumNam",valrep=c("1511","1512"), outfn){
   file_js = FROM_GeoJson(url_file_string = fn)
 
   ppp=do.call("rbind",lapply(1:length(file_js$features), FUN=function(i)data.frame(file_js$features[i])))
