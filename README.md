@@ -3,6 +3,18 @@
 Author: Sven Gastauer, Feb. 2023  
 Institute: [Thünen Institute for Sea Fisheries](https://www.thuenen.de/en/institutes/sea-fisheries) , Operational Observation Systems   
 
+## Copyright and licence  
+    Copyright (C) 2023 Sven Gastauer.
+    
+    This file is part of SurvPlan.  
+    
+    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+  
+    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+    Everyone is permitted to copy and distribute verbatim copies
+    of this license document, but changing it is not allowed.
+  
 ## Description  
 Transect Planner for acoustic surveys
 
