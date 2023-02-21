@@ -14,7 +14,18 @@ Institute: [Thünen Institute for Sea Fisheries](https://www.thuenen.de/en/insti
     Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
     Everyone is permitted to copy and distribute verbatim copies
     of this license document, but changing it is not allowed.
-  
+    
+## Citation
+Please cite as:
+  Gastauer S, Schaber M (2023). SurvPlan: Acoustic Survey Planner. R package version 0.1.0.
+Bibtex for LateX users:
+```
+  @Manual{,
+    title = {SurvPlan: Acoustic Survey Planner},
+    author = {Sven Gastauer and Matthias Schaber},
+    note = {R package version 0.1.0},
+  }
+ ```
 ## Description  
 Transect Planner for acoustic surveys
 
