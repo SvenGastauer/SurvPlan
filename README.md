@@ -16,13 +16,17 @@ Institute: [Thünen Institute for Sea Fisheries](https://www.thuenen.de/en/insti
     of this license document, but changing it is not allowed.
     
 ## Citation
-Please cite as:
-  Gastauer S, Schaber M (2023). SurvPlan: Acoustic Survey Planner. R package version 0.1.0.
+Please cite as:  
+    
+    Gastauer S, Schaber M (2023). SurvPlan: Acoustic Survey Planner. R package version 0.1.0.  
+    
 Bibtex for LateX users:
 ```
   @Manual{,
     title = {SurvPlan: Acoustic Survey Planner},
     author = {Sven Gastauer and Matthias Schaber},
+    year = {2023},
+    url = {https://github.com/SvenGastauer/SurvPlan},
     note = {R package version 0.1.0},
   }
  ```
