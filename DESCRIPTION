@@ -1,6 +1,6 @@
 Package: SurvPlan
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Acoustic Survey Planner
 Version: 0.1.0
 Author: Sven Gastauer, Matthias Schaber
 Maintainer: Sven Gastauer <sven.gastauer@thuenen.de>
