@@ -1,7 +1,9 @@
 # SurvPlan
 
-Author: Sven Gastauer and Matthias Schaber, Feb. 2023  
-Institute: [Thünen Institute for Sea Fisheries](https://www.thuenen.de/en/institutes/sea-fisheries) , Operational Observation Systems   
+
+<a href="https://www.thuenen.de/de/fachinstitute/seefischerei"><img src=https://github.com/SvenGastauer/KRMr/blob/main/thuenen_logo.png width="200"> </a>  
+Author: Sven Gastauer and Matthias Schaber, [Thünen Institute for Sea Fisheries](https://www.thuenen.de/de/fachinstitute/seefischerei), Feb. 2023  
+Operational Observation Systems   
 
 ## Copyright and licence  
     Copyright (C) 2023 Sven Gastauer.
