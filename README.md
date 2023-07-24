@@ -6,7 +6,7 @@ Author: Sven Gastauer and Matthias Schaber, [Thünen Institute for Sea Fisheries
 Operational Observation Systems   
 
 ## Copyright and licence  
-    Copyright (C) 2023 Sven Gastauer.
+    Copyright (C) 2023 Sven Gastauer, Matthias Schaber.
     
     This file is part of SurvPlan.  
     
